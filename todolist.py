@@ -58,7 +58,6 @@ def main():
         print("5. Quit")
 
         choice = input("\nEnter your choice: ")
-1
         if choice == "1":
             display_tasks(tasks)
         elif choice == "2":
